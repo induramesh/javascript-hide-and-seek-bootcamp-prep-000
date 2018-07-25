@@ -14,5 +14,5 @@ for (let i = 0; i < lis.length; i++) {
 }
 
 function deepestChild() {
-return document.querySelector('div#grand-node')
+return document.querySelector('div#grand-node').length
 }
