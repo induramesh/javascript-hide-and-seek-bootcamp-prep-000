@@ -13,6 +13,6 @@ for (let i = 0; i < lis.length; i++) {
 }
 }
 
-
-var g = document.querySelector('div#grand-node')
-return g
+function deepestChild() {
+return document.querySelector('div#grand-node')
+}
